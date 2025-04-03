@@ -1,0 +1,9 @@
+name: "grocery-management-system"
+description: "Grocery Management Agents System using AWS API Gateway, Lambda Python, and DeepSeek on AWS"
+version: 1.0.0
+author: "AI Developer"
+license: "MIT"
+dependencies:
+  - boto3
+  - crewai
+  - python-dotenv

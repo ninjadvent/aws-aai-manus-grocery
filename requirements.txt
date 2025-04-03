@@ -1,0 +1,7 @@
+# Requirements
+
+```
+boto3==1.28.38
+crewai==0.28.1
+python-dotenv==1.0.0
+```
